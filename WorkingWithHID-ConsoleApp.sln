@@ -5,8 +5,6 @@ VisualStudioVersion = 17.13.35617.110
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_1-WorkingWithHID", "WorkingWithHID-ConsoleApp\Method_1-WorkingWithHID.csproj", "{6E1E6C6F-2458-4E1E-97AF-4B97E754A83A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_2-WorkingWithHID", "Method_2-WorkingWithHID\Method_2-WorkingWithHID.csproj", "{15819E96-F19C-4D6E-AA60-5B6338FEC1A6}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{6E1E6C6F-2458-4E1E-97AF-4B97E754A83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E1E6C6F-2458-4E1E-97AF-4B97E754A83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E1E6C6F-2458-4E1E-97AF-4B97E754A83A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{15819E96-F19C-4D6E-AA60-5B6338FEC1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{15819E96-F19C-4D6E-AA60-5B6338FEC1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{15819E96-F19C-4D6E-AA60-5B6338FEC1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{15819E96-F19C-4D6E-AA60-5B6338FEC1A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
